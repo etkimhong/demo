@@ -1,3 +1,3 @@
-#Et kimhong
-##welcome to my github
+# Et kimhong
+## welcome to my github
 * thanks you!
